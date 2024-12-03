@@ -1,0 +1,6 @@
+
+# Root directory .gitignore
+node_modules/
+.env
+.DS_Store
+npm-debug.log
